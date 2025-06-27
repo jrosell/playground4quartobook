@@ -1,7 +1,7 @@
 # playground4quartobook
 
 
-# How to use it
+## How to use it
 
 Run in the terminal:
 
