@@ -1,6 +1,6 @@
 # playground4quartobook
 
-Playground for a quarto book website in github pages.
+Playground for a quarto book website in github pages using a Makefile.
 
 ## How to use it
 
