@@ -1,6 +1,6 @@
 # playground4quartobook
 
-Playground for a quarto book website in github page.
+Playground for a quarto book website in github pages.
 
 ## How to use it
 
@@ -12,9 +12,9 @@ cd playground4quartobook/src
 make
 ```
 
-Open http://127.0.0.1:8080 in your browser. It should show web directory contents.
+Open http://127.0.0.1:8080 in your browser. It should show web directory contents f the rendered book.
 
-You can edit the .qmd files in the src folder and rerender all the project
+You can edit the .qmd files in the src folder and rerender all the project .qmd:
 
 ```
 make
